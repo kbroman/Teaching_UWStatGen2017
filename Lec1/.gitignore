@@ -1,0 +1,7 @@
+*.aux
+*.log
+*.out
+broman_qtl1.pdf
+NewData/
+R/Rcache/
+R/rdatafiles.tgz
