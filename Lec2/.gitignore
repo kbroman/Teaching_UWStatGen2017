@@ -1,0 +1,5 @@
+*.aux
+*.log
+*.out
+R/Rcache/
+note.txt
